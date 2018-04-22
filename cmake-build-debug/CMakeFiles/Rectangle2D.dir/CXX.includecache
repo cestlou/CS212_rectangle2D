@@ -6,7 +6,13 @@
 
 #IncludeRegexTransform: 
 
-/Users/lunaalisonalvarez/Documents/Local C0D3/CS212/Rectangle2D/Rectangle2D.cpp
+/Users/lunaalisonalvarez/Documents/Local C0D3/CS212/Rectangle2D/cmake-build-debug/Rectangle2D.cpp
+Rectangle2D.h
+/Users/lunaalisonalvarez/Documents/Local C0D3/CS212/Rectangle2D/cmake-build-debug/Rectangle2D.h
+
+/Users/lunaalisonalvarez/Documents/Local C0D3/CS212/Rectangle2D/cmake-build-debug/Rectangle2D.h
+
+/Users/lunaalisonalvarez/Documents/Local C0D3/CS212/Rectangle2D/main.cpp
 iostream
 -
 
